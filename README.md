@@ -52,7 +52,7 @@ El objetivo es **simular y practicar una red empresarial pequeña** que incluya:
 
 ## Archivos incluidos
 
-- Topología Packet Tracer (`.pkt`)  
+- [Topología Packet Tracer](https://github.com/sebarr90/packet-tracer-ospf-vlan-acl-dhcp/blob/main/02.%20M5_U1_DESAFIO_Marcos_Arriagada.pkt)  
 
 ---
 
